@@ -1,0 +1,1 @@
+# Individu-Website-CRUD-Framework-Django
